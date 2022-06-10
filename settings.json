@@ -1,0 +1,9 @@
+{
+	"active": [
+      	"...",
+		"python_workshop.json"
+    ],
+	"inactive": [
+		"template.json"
+	]
+}
