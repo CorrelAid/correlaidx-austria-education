@@ -1,4 +1,4 @@
-# correlaidx-kn-education
+# correlaidx-austria-education
 Website für die [Workshops/Education Projekte von CorrelAid X Austria](https://correlaid.github.io/correlaidx-austria-education/).
 
 
