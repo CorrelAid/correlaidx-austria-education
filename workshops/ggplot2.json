@@ -1,0 +1,31 @@
+{
+    "name": "ggplot2 - basics I",
+    "sub": "richtig coole plots mit ggplot2!!!",
+    "description": "Wir machen hier ganz tolle und spannenden sachen! <strong> Dick</strong>",
+    "teaser": "Learn how to design fancy plots!",
+    "venue": "Hybrid",
+    "dates": {
+        "previous": [],
+        "next": ["20.09.2022"]
+    },
+    "schedule": {
+        "20:00": "Kurs beginnt",
+        "20:30": "pause"
+    },
+    "structure": "",
+    "details": {
+        "Prerequisites": "Nett sein",
+        "Sprache": "Deutsch"
+    },
+    "requirements": "Grundlegene Kentnisse von R",
+    "authors": [
+        "Simon"
+    ],
+    "images": {
+        "thumbnail": "cooler_screenshot.png",
+        "hero": "sea.jpg"
+    },
+    "tags": [
+        "R", "ggplot2", "vis"
+    ]
+}

@@ -1,7 +1,7 @@
 {
 	"active": [
       	"...",
-		"python_workshop.json"
+		"ggplot2.json"
     ],
 	"inactive": [
 		"template.json"
