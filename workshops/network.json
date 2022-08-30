@@ -1,8 +1,8 @@
 {
     "name": "Fancy Network Visualization with visNetwork",
     "sub": "For detail page - sub header",
-    "description": "Was wird gemacht? Was ist geplant, hier kannst du auch <strong>html</strong> tags benutzen. Achte nur auf double quotes.",
-    "teaser": "richtig nicer shit wird hier vorgestellt und angeteasest! (overview page)",
+    "description": "We will use the visNetwork package in R to make your network graph interactive",
+    "teaser": "Awesome and INTERACTIVE network graphs for your homepage",
     "venue": "Online",
     "dates": {
         "previous": ["24.12.0"],
