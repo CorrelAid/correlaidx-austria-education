@@ -1,7 +1,7 @@
 {
     "name": "ggplot2 - basics I",
     "sub": "Introduction into ggplot2",
-    "description": "You want to plot your data, but the R syntax looks to complex? No problem - we have you covered. In this session you will learn the basic grammar of ggplot2 and you will make your first barplot and some errorbars. Ne previous knowledge needed. Some R basic knowledge helps, but we will figure it out together.",
+    "description": "You want to plot your data, but the R syntax looks to complex? No problem - we have you covered. In this session you will learn the basic grammar of ggplot2 and you will make your first barplot and some errorbars. No previous knowledge needed. Some R basic knowledge helps, but we will figure it out together.",
     "teaser": "Learn how to design fancy plots with R and ggplot2!",
     "venue": "Hybrid",
     "dates": {
