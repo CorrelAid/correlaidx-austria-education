@@ -3,10 +3,10 @@
     "sub": "Creating interactive networks in html files",
     "description": "We will use the visNetwork package in R to create an interactive version of your network graph. We will create html-files which you can then use on any website.",
     "teaser": "Create interactive network graphs for your website",
-    "venue": "Hybrid (Vienna & digital",
+    "venue": "Hybrid Vienna & digital",
     "dates": {
-        "previous": ["24.12.0"],
-        "next": ["15.4.2022", "16.04.2022"]
+        "previous": ["24.12.2022"],
+        "next": ["04.10.2022"]
     },
     "schedule": {
         "custom key 1": "point of order 1",
