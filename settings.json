@@ -1,7 +1,8 @@
 {
 	"active": [
 		"ggplot2_1.json",
-		"network.json"
+		"network.json",
+		"form_R.json"
     ],
 	"inactive": [
 		"template.json",
@@ -9,6 +10,7 @@
 		"open_slot.json",
 		"text_vis.json",
 		"uni_distribution.json",
-		"web_vis.json"		
+		"web_vis.json"
+		
 	]
 }
