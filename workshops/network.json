@@ -1,12 +1,11 @@
 {
-    "name": "Fancy Network Visualization with visNetwork",
-    "sub": "For detail page - sub header",
-    "description": "We will use the visNetwork package in R to make your network graph interactive",
-    "teaser": "Awesome and INTERACTIVE network graphs for your homepage",
-    "venue": "Online",
-    "dates": {
-        "previous": ["24.12.0"],
-        "next": ["15.4.2022", "16.04.2022"]
+    "name": "Network Visualizations with visNetwork",
+    "sub": "Creating interactive networks in html files",
+    "description": "We will use the visNetwork package in R to create an interactive version of your network graph. We will create html-files which you can then use on any website",
+    "teaser": "Create interactive network graphs for your website",
+    "venue": "Hybrid (Vienna & digital)",
+    "date": {
+        "next": ["04.10.2022"]
     },
     "schedule": {
         "custom key 1": "point of order 1",
@@ -16,18 +15,18 @@
     "structure": "structure of the workshop, first this then that, once again <ul><li>element 1</li></ul> html works <br> as well!",
     "details": {
         "custom key 1": "detail 1",
-        "Sprache": "Deutsch"
+        "Sprache": "English / German"
     },
-    "requirements": "Grundlegene Kentnisse von R",
+    "requirements": "Basic R",
     "authors": [
-        "Tilman die Nuss", "Nuss der Tilman"
+        "Arne Langlet"
     ],
     "images": {
-        "thumbnail": "filename of image in static/img/ folder",
-        "hero": "filename of image in static/img/ folder"
+        "thumbnail": "network_workshop/img/ folder",
+        "hero": "network_workshop/img/ folder"
     },
     "tags": [
-        "template", "json", "pyhton"
+        "template", "json", "R"
     ],
     "register_link": "https://forms.gle/BwEYzU4ZSoTpvKFU8"
 }
