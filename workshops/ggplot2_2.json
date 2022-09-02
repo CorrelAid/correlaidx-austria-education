@@ -1,33 +1,32 @@
 {
-    "name": "Workshop Name",
-    "sub": "For detail page - sub header",
-    "description": "Was wird gemacht? Was ist geplant, hier kannst du auch <strong>html</strong> tags benutzen. Achte nur auf double quotes.",
-    "teaser": "richtig nicer shit wird hier vorgestellt und angeteasest! (overview page)",
-    "venue": "Online",
+    "name": "ggplot2 - basics II",
+    "sub": "Introduction into ggplot2",
+    "description": "Last week we learned the basic building blocks of ggplot2. Today we will follow up and also look into how plot data through maps.",
+    "teaser": "Learn more about ggplot2 and how to map data)",
+    "venue": "Hybrid",
     "dates": {
-        "previous": ["24.12.0"],
-        "next": ["15.4.2022", "16.04.2022"]
+        "previous": ["20.09.2022"],
+        "next": ["27.09.2022"]
     },
     "schedule": {
-        "custom key 1": "point of order 1",
-        "custom key 2": "point of order 2",
-        "12:00-13:00": "point of order 3"
+        "20:00": "start",
+        "21:00": "end"
     },
-    "structure": "structure of the workshop, first this then that, once again <ul><li>element 1</li></ul> html works <br> as well!",
+    "structure": "",
     "details": {
-        "custom key 1": "detail 1",
-        "Sprache": "Deutsch"
+        "Prerequisites": "Be curious - some R knowledge helps",
+        "Sprache": "English"
     },
-    "requirements": "Grundlegene Kentnisse von R",
+    "requirements": "Basic R knowledge,
     "authors": [
-        "Tilman die Nuss", "Nuss der Tilman"
+        "Julian"
     ],
     "images": {
         "thumbnail": "filename of image in static/img/ folder",
         "hero": "filename of image in static/img/ folder"
     },
     "tags": [
-        "template", "json", "pyhton"
+        "R", "ggplot2", "vis", "beginner"
     ],
     "register_link": "https://forms.gle/BwEYzU4ZSoTpvKFU8"
 }
