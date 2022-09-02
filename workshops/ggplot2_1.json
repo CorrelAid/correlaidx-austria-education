@@ -23,7 +23,7 @@
     ],
     "images": {
         "thumbnail": "ggplot2.png",
-        "hero": "sea.jpg"
+        "hero": "ggplot2.png"
     },
     "tags": [
         "R", "ggplot2", "vis", "beginner"
