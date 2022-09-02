@@ -9,24 +9,24 @@
         "next": ["20.09.2022"]
     },
     "schedule": {
-        "20:00": "Kurs beginnt",
-        "20:30": "pause"
+        "20:00": "start",
+        "21:00": "end"
     },
     "structure": "",
     "details": {
         "Prerequisites": "Be curious - some R knowledge helps",
-        "Sprache": "Deutsch"
+        "Sprache": "English"
     },
-    "requirements": "Grundlegene Kentnisse von R",
+    "requirements": "Basic R knowledge",
     "authors": [
         "Simon"
     ],
     "images": {
-        "thumbnail": "cooler_screenshot.png",
+        "thumbnail": "ggplot2.png",
         "hero": "sea.jpg"
     },
     "tags": [
-        "R", "ggplot2", "vis"
+        "R", "ggplot2", "vis", "beginner"
     ],
     "register_link": "https://forms.gle/BwEYzU4ZSoTpvKFU8"
 }
