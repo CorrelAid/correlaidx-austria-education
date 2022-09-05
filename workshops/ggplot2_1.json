@@ -6,7 +6,7 @@
     "venue": "Hybrid",
     "dates": {
         "previous": [],
-        "next": ["20.09.2022"]
+        "next": ["20.09.2022", "27.09.2022"]
     },
     "schedule": {
         "20:00": "start",
@@ -14,8 +14,9 @@
     },
     "structure": "",
     "details": {
+        "venue": "tba",
         "Prerequisites": "Be curious - some R knowledge helps",
-        "Sprache": "English"
+        "Language": "English"
     },
     "requirements": "Basic R knowledge",
     "authors": [
@@ -28,5 +29,5 @@
     "tags": [
         "R", "ggplot2", "vis", "beginner"
     ],
-    "register_link": "https://docs.google.com/forms/d/190YfhKY1T1tzvlI-M4gNtAZ2mWw2_uuyJTyCJZ8F9zc/prefill"
+    "register_link": "https://forms.gle/BwEYzU4ZSoTpvKFU8"
 }
