@@ -22,10 +22,11 @@
         "Julian"
     ],
     "images": {
-        "thumbnail": "filename of image in static/img/ folder",
-        "hero": "filename of image in static/img/ folder"
+        "thumbnail": "ggplot2.png",
+        "hero": "ggplot2.png"
     },
     "tags": [
         "R", "ggplot2", "vis", "beginner"
     ],
-    "register_link": "https://docs.google.com/forms/d/190YfhKY1T1tzvlI-M4gNtAZ2mWw2_uuyJTyCJZ8F9zc/prefill"
+    "register_link": "https://forms.gle/BwEYzU4ZSoTpvKFU8"
+}
