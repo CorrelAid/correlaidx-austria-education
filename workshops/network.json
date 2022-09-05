@@ -16,15 +16,15 @@
     "structure": "structure of the workshop, first this then that, once again <ul><li>element 1</li></ul> html works <br> as well!",
     "details": {
         "custom key 1": "detail 1",
-        "Sprache": "Deutsch"
+        "Sprache": "English / German"
     },
     "requirements": "Grundlegene Kentnisse von R",
     "authors": [
-        "Tilman die Nuss", "Nuss der Tilman"
+        "Arne Langlet"
     ],
     "images": {
-        "thumbnail": "/img/ folder",
-        "hero": "filename of image in static/img/ folder"
+        "thumbnail": "network_workshop.png/img/ folder",
+        "hero": "network_workshop.png/img/ folder"
     },
     "tags": [
         "template", "json", "pyhton"
