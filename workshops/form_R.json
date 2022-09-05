@@ -6,15 +6,16 @@
    "venue": "Hybrid Vienna & digital",
     "dates": {
         
-        "next": ["04.10.2022"]
+        "next": ["10.01.2023"]
     },
     "schedule": {
         "20:00-21:30": "Workshop"
     },
     "structure": "structure of the workshop, first this then that, once again <ul><li>element 1</li></ul> html works <br> as well!",
     "details": {
-        "custom key 1": "Kollingasse 16, 5th floor, Conference Room",
-        "Sprache": "English / German"
+        "venue": "Kollingasse 16, 5th floor, Conference Room",
+        "language": "English / German",
+        "Prerequisites": "Basic R knowledge"
     },
     "requirements": "Grundlegene Kentnisse von R",
     "authors": ["Arne Langlet"
@@ -27,5 +28,4 @@
         "R", "surveys", "FormR", "visualization"
     ],
     "register_link": "https://docs.google.com/forms/d/190YfhKY1T1tzvlI-M4gNtAZ2mWw2_uuyJTyCJZ8F9zc/prefill"
-}
 }
