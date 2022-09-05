@@ -19,12 +19,11 @@
         "Sprache": "English / German"
     },
     "requirements": "Grundlegene Kentnisse von R",
-    "authors": [
-        "Arne Langlet"
+    "authors": ["Arne Langlet"
     ],
     "images": {
-        "thumbnail": "network_workshop.png/img/ folder",
-        "hero": "network_workshop.png/img/ folder"
+        "thumbnail": "network_workshop.png",
+        "hero": "network_workshop.png"
     },
     "tags": [
         "template", "json", "pyhton"
