@@ -9,13 +9,11 @@
         "next": ["04.10.2022"]
     },
     "schedule": {
-        "custom key 1": "point of order 1",
-        "custom key 2": "point of order 2",
-        "12:00-13:00": "point of order 3"
+        "20:00-21:30": "Workshop"
     },
     "structure": "structure of the workshop, first this then that, once again <ul><li>element 1</li></ul> html works <br> as well!",
     "details": {
-        "custom key 1": "detail 1",
+        "custom key 1": "Kollingasse 16, 5th floor, Conference Room",
         "Sprache": "English / German"
     },
     "requirements": "Grundlegene Kentnisse von R",
@@ -26,7 +24,7 @@
         "hero": "network_workshop.png"
     },
     "tags": [
-        "template", "json", "pyhton"
+        "R", "networks", "visNetwork", "visualization"
     ],
-    "register_link": "https://forms.gle/BwEYzU4ZSoTpvKFU8"
+    "register_link": "https://docs.google.com/forms/d/190YfhKY1T1tzvlI-M4gNtAZ2mWw2_uuyJTyCJZ8F9zc/prefill"
 }

@@ -1,33 +1,31 @@
 {
-    "name": "Workshop Name",
-    "sub": "For detail page - sub header",
-    "description": "Was wird gemacht? Was ist geplant, hier kannst du auch <strong>html</strong> tags benutzen. Achte nur auf double quotes.",
-    "teaser": "richtig nicer shit wird hier vorgestellt und angeteasest! (overview page)",
-    "venue": "Online",
+    "name": "Surveys with FormR",
+    "sub": "Creating surveys and analyzing them using the FormR survey framewok",
+    "description": "We will learn how to create a survey in FormR and how to connect it to RMarkdown to automatically analyze its results",
+    "teaser": "Survey creation and analysis",
+   "venue": "Hybrid Vienna & digital",
     "dates": {
-        "previous": ["24.12.0"],
-        "next": ["15.4.2022", "16.04.2022"]
+        
+        "next": ["04.10.2022"]
     },
     "schedule": {
-        "custom key 1": "point of order 1",
-        "custom key 2": "point of order 2",
-        "12:00-13:00": "point of order 3"
+        "20:00-21:30": "Workshop"
     },
     "structure": "structure of the workshop, first this then that, once again <ul><li>element 1</li></ul> html works <br> as well!",
     "details": {
-        "custom key 1": "detail 1",
-        "Sprache": "Deutsch"
+        "custom key 1": "Kollingasse 16, 5th floor, Conference Room",
+        "Sprache": "English / German"
     },
     "requirements": "Grundlegene Kentnisse von R",
-    "authors": [
-        "Tilman die Nuss", "Nuss der Tilman"
+    "authors": ["Arne Langlet"
     ],
     "images": {
-        "thumbnail": "filename of image in static/img/ folder",
-        "hero": "filename of image in static/img/ folder"
+        "thumbnail": "formr_workshop.png",
+        "hero": "formr_workshop.png"
     },
     "tags": [
-        "template", "json", "pyhton"
+        "R", "surveys", "FormR", "visualization"
     ],
-    "register_link": "https://forms.gle/BwEYzU4ZSoTpvKFU8"
+    "register_link": "https://docs.google.com/forms/d/190YfhKY1T1tzvlI-M4gNtAZ2mWw2_uuyJTyCJZ8F9zc/prefill"
+}
 }
