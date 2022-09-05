@@ -5,7 +5,7 @@
     "teaser": "Create interactive network graphs for your website",
     "venue": "Hybrid Vienna & digital",
     "dates": {
-        
+        "previous": ["27.09.2022"],
         "next": ["04.10.2022"]
     },
     "schedule": {
@@ -13,11 +13,11 @@
     },
     "structure": "structure of the workshop, first this then that, once again <ul><li>element 1</li></ul> html works <br> as well!",
     "details": {
-        "venue": "Kollingasse 16, 5th floor, Conference Room",
-        "language": "English / German",
+        "Venue": "Vienna, Kollingasse 16, 5th floor, Conference Room",
+        "Language": "English / German",
         "Prerequisites": "Basic R knowledge"
     },
-    "requirements": "Grundlegene Kentnisse von R",
+    "requirements": "Basic R knowledge",
     "authors": ["Arne Langlet"
     ],
     "images": {

@@ -3,14 +3,14 @@
 		"ggplot2_1.json",
 		"ggplot2_2.json",
 		"form_R.json",
-		"network.json"
+		"network.json",
+		"uni_distribution.json"
     ],
 	"inactive": [
 		"template.json",
 		"ggplot2_2.json",
 		"open_slot.json",
 		"text_vis.json",
-		"uni_distribution.json",
 		"web_vis.json"
 		
 		
