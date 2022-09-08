@@ -1,7 +1,7 @@
 {
     "name": "R ggplot2 (1)",
     "sub": "Visualize categorical data with barplots",
-    "description": "We start with a brief introduction to the ggplot2 package. Then we visualize categorical data from the data set with the ggplot2s barplot function. To interpret the data more precisely we also add errorbars to the visualization. If you want to come prepared (no requirement) have a look at our inspiration https://ggplot2-book.org/index.html",
+    "description": "We start with a brief introduction to the ggplot2 package. Then we visualize categorical data from the data set with the ggplot2s barplot function. To interpret the data more precisely we also add errorbars to the visualization. If you want to come prepared (no requirement) have a look at our inspiration [https://ggplot2-book.org/index.html](https://ggplot2-book.org/index.html)",
     "teaser": "Learn how to design fancy plots with R and ggplot2!",
     "venue": "Online",
     "dates": {
@@ -16,7 +16,7 @@
     },
     "structure": "",
     "details": {
-        "Venue": "online - link will be prvided after registration",
+        "Venue": "online - link will be provided after registration",
         "Prerequisites": "Be curious - some R knowledge helps",
         "Language": "English"
     },
