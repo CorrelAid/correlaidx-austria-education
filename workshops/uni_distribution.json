@@ -9,7 +9,9 @@
         "next": ["11.10.2022"]
     },
     "schedule": {
-        "20:00-21:30": "Workshop"
+        "20:00-20:40": "How to",
+        "20:40-21:00": "Your questions",
+        "21:00-21:30": "DIY"
     },
     "structure": "structure of the workshop, first this then that, once again <ul><li>element 1</li></ul> html works <br> as well!",
     "details": {

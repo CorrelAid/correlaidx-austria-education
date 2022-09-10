@@ -25,7 +25,7 @@
         "hero": "network_workshop.png"
     },
     "tags": [
-        "R", "networks", "visNetwork", "visualization"
+        "R", "networks", "visNetwork", "vis"
     ],
     "register_link": "https://docs.google.com/forms/d/e/1FAIpQLScOqIBfQRvdGA9PjIWELUtapUPPFbgDaUwsqOiZ_oboaU_1mg/viewform?usp=sf_link"
 }   
