@@ -1,9 +1,9 @@
 {
-    "name": "ggplot2 - basics II",
-    "sub": "Introduction into ggplot2",
-    "description": "Last week we learned the basic building blocks of ggplot2. Today we will follow up and also look into how plot data through maps.",
-    "teaser": "Learn more about ggplot2 and how to map data)",
-    "venue": "Hybrid",
+    "name": "R ggplot2 (2)",
+    "sub": "Learn how to visualise basic spatial data in R using ggplot an sf!",
+    "description": "Last week we learned the basic building blocks of ggplot2. Today we will follow up and also look into how spatial plot data.",
+    "teaser": "Learn more about ggplot2 and spatial data)",
+    "venue": "Online",
     "dates": {
         "previous": ["20.09.2022"],
         "next": ["27.09.2022"]
@@ -14,11 +14,11 @@
     },
     "structure": "",
     "details": {
-        "Venue": "tba",
-        "Prerequisites": "Be curious - some R knowledge helps",
-        "Sprache": "English"
+        "Venue": "Online - link will be provided after registration",
+        "Prerequisites": "None, basic R knowledge helps",
+        "Sprache": "English/German"
     },
-    "requirements": "Basic R knowledge",
+    "requirements": "None, basic R knowledge helps",
     "authors": [
         "Julian"
     ],
@@ -27,7 +27,7 @@
         "hero": "ggplot2.png"
     },
     "tags": [
-        "R", "ggplot2", "vis", "beginner"
+        "R", "ggplot2", "vis", "spatial"
     ],
     "register_link": "https://forms.gle/2aevz2CwoQRMDmrGA"
 }
