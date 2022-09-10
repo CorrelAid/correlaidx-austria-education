@@ -1,5 +1,5 @@
 {
-    "name": "R ggplot2 (1)",
+    "name": "R ggplot2 - basics",
     "sub": "Visualize categorical data with barplots",
     "description": "We start with a brief introduction to the ggplot2 package. Then we visualize categorical data from the data set with the ggplot2s barplot function. To interpret the data more precisely we also add errorbars to the visualization.",
     "teaser": "Learn how to design fancy plots with R and ggplot2!",
