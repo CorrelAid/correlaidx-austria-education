@@ -2,12 +2,12 @@
 	"active": [
 		"ggplot2_1.json",
 		"ggplot2_2.json",
-		"form_R.json",
 		"network.json",
 		"uni_distribution.json",
 		"web_vis.json",
 		"dashboard_shiny.json",
-		"text_vis.json"
+		"text_vis.json",
+		"form_R.json"
 
     ],
 	"inactive": [
