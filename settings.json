@@ -5,15 +5,14 @@
 		"form_R.json",
 		"network.json",
 		"uni_distribution.json",
-		"web_vis.json"
+		"web_vis.json",
+		"dashboard_shiny.json",
+		"text_vis.json"
 
     ],
 	"inactive": [
 		"template.json",
-		"ggplot2_2.json",
-		"open_slot.json",
-		"text_vis.json"
-		
+		"open_slot.json"	
 		
 	]
 }

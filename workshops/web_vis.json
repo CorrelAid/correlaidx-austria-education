@@ -1,6 +1,6 @@
 {
     "name": "Web-visualization (D3 & Co)",
-    "sub": "For detail page - sub header",
+    "sub": "",
     "description": "Creating web Visualizations with D3",
     "teaser": "",
     "venue": "tba",
@@ -22,8 +22,8 @@
         "Tilman"
     ],
     "images": {
-        "thumbnail": "filename of image in static/img/ folder",
-        "hero": "filename of image in static/img/ folder"
+        "thumbnail": "python_thumb.jpg",
+        "hero": "python_thumb.jpg"
     },
     "tags": [
         "D3", "web visualization"
