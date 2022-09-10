@@ -1,33 +1,32 @@
 {
-    "name": "Workshop Name",
+    "name": "Web-visualization (D3 & Co)",
     "sub": "For detail page - sub header",
-    "description": "Was wird gemacht? Was ist geplant, hier kannst du auch <strong>html</strong> tags benutzen. Achte nur auf double quotes.",
-    "teaser": "richtig nicer shit wird hier vorgestellt und angeteasest! (overview page)",
-    "venue": "Online",
+    "description": "Creating web Visualizations with D3",
+    "teaser": "",
+    "venue": "tba",
     "dates": {
-        "previous": ["24.12.0"],
-        "next": ["15.4.2022", "16.04.2022"]
+        "previous": ["11.10.2022"],
+        "next": ["08.11.2022"]
     },
     "schedule": {
-        "custom key 1": "point of order 1",
-        "custom key 2": "point of order 2",
-        "12:00-13:00": "point of order 3"
+        "20:00-21:30": "Workshop"
     },
     "structure": "structure of the workshop, first this then that, once again <ul><li>element 1</li></ul> html works <br> as well!",
     "details": {
-        "custom key 1": "detail 1",
-        "Sprache": "Deutsch"
+        "Venue": "tba",
+        "Language": "English / German",
+        "Prerequisites": "Interest in D3"
     },
-    "requirements": "Grundlegene Kentnisse von R",
+    "requirements": "Interest in D3",
     "authors": [
-        "Tilman die Nuss", "Nuss der Tilman"
+        "Tilman"
     ],
     "images": {
         "thumbnail": "filename of image in static/img/ folder",
         "hero": "filename of image in static/img/ folder"
     },
     "tags": [
-        "template", "json", "pyhton"
+        "D3", "web visualization"
     ],
-    "register_link": "https://forms.gle/BwEYzU4ZSoTpvKFU8"
+    "register_link": "https://docs.google.com/forms/d/e/1FAIpQLScOqIBfQRvdGA9PjIWELUtapUPPFbgDaUwsqOiZ_oboaU_1mg/viewform?usp=sf_link"
 }

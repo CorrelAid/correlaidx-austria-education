@@ -4,14 +4,15 @@
 		"ggplot2_2.json",
 		"form_R.json",
 		"network.json",
-		"uni_distribution.json"
+		"uni_distribution.json",
+		"web_vis.json"
+
     ],
 	"inactive": [
 		"template.json",
 		"ggplot2_2.json",
 		"open_slot.json",
-		"text_vis.json",
-		"web_vis.json"
+		"text_vis.json"
 		
 		
 	]
