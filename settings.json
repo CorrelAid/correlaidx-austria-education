@@ -11,8 +11,6 @@
 
     ],
 	"inactive": [
-		"template.json",
-		"open_slot.json"	
-		
+		"template.json"		
 	]
 }
