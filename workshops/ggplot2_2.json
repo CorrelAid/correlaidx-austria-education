@@ -23,8 +23,8 @@
         "Julian"
     ],
     "images": {
-        "thumbnail": "ggplot2.png",
-        "hero": "ggplot2.png"
+        "thumbnail": "map_AT.jpg",
+        "hero": "map_AT.jpg"
     },
     "tags": [
         "R", "ggplot2", "vis", "spatial"
