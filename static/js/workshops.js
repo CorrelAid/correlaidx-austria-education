@@ -144,7 +144,7 @@ async function get_ws_details(ws_name) {
 function load() {
 
     let ws_content = $("#ws-content");
-    let spinner = $("#spinner");
+    let spinner = document.getElementById("spinner");
 
     read_workshops()
         .then(workshops => {
@@ -155,7 +155,7 @@ function load() {
 
                         let ws_html = get_html_for_ws(ws_json);
                         ws_content.append(ws_html);
-                        spinner.toggle();
+                        spinner.style.display = "none";
 
                     });
 
