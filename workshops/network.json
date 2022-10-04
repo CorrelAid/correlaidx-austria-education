@@ -13,11 +13,7 @@
     },
     "structure": "structure of the workshop, first this then that, once again <ul><li>element 1</li></ul> html works <br> as well!",
     "details": {
-<<<<<<< HEAD
         "Venue": "Vienna, Kollingasse 16",
-=======
-        "Venue": "Vienna, Kollingasse 16, 1st floor, Conference Room 15",
->>>>>>> af25023da6e40fa319742370efa5f5e7d104f062
         "Language": "English / German",
         "Prerequisites": "Basic R knowledge"
     },
