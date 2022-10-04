@@ -1,7 +1,7 @@
 {
     "name": "R ggplot2 - spatial",
     "sub": "Learn how to visualise basic spatial data in R using ggplot an sf!",
-    "description": "Last week we learned the basic building blocks of ggplot2. Today we will follow up and also look into how spatial plot data.",
+    "description": "This course builds up on last week's content. The goal of this week is to get to know the sf-package in R and to get an idea of how to create simpe plots with it.",
     "teaser": "Learn more about ggplot2 and spatial data",
     "venue": "Online",
     "dates": {
