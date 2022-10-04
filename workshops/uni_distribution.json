@@ -15,7 +15,7 @@
     },
     "structure": "structure of the workshop, first this then that, once again <ul><li>element 1</li></ul> html works <br> as well!",
     "details": {
-        "Venue": "Vienna, Kollingasse 16, 5th floor, Conference Room",
+        "Venue": "Vienna, Kollingasse 16",
         "Language": "English / German",
         "Prerequisites": "Basic R knowledge and basic understanding of ggplot2"
     },
