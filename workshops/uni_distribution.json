@@ -3,19 +3,18 @@
     "sub": "Get over histogramms",
     "description": "We will use different plot types to illustrate the distribution of your data",
     "teaser": "How to plot the distribution of single variables",
-    "venue": "Hybrid Vienna & digital",
+    "venue": "online",
     "dates": {
         "previous": ["20.09.2022", "27.09.2022", "04.10.2022"],
-        "next": ["11.10.2022", "08.11.2022", "22.11.2022", "06.12.2022", "10.01.2023"]
+        "next": ["18.10.2022", "08.11.2022", "22.11.2022", "06.12.2022", "10.01.2023"]
     },
     "schedule": {
         "20:00-20:40": "How to",
-        "20:40-21:00": "Your questions",
-        "21:00-21:30": "DIY"
+        "20:40-21:00": "Your questions"
     },
     "structure": "structure of the workshop, first this then that, once again <ul><li>element 1</li></ul> html works <br> as well!",
     "details": {
-        "Venue": "Vienna, Kollingasse 16",
+        "Venue": "online via zoom - link will be provided after registration",
         "Language": "English / German",
         "Prerequisites": "Basic R knowledge and basic understanding of ggplot2"
     },
