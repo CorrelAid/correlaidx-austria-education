@@ -1,9 +1,9 @@
 {
     "name": "R Dashboards & shiny apps",
     "sub": "Create dashboards and shiny apps with R",
-    "description": "tba",
+    "description": "The workshop is an introduction to R and shiny. In the first part, we discuss some example applications and build our own shiny environment. In the second part, we give you the basic theory on how to build a reactive shiny app and will go on with creating an application from a static plot. At the end you will have build your own shiny app reachable for everybody online.",
     "teaser": "",
-    "venue": "Hybrid Innsbruck & digital",
+    "venue": "Hybrid SoWi Innsbruck & digital",
     "dates": {
         "previous": ["20.09.2022", "27.09.2022", "04.10.2022", "11.10.2022", "08.11.2022"],
         "next": ["22.11.2022", "06.12.2022", "10.01.2023"]
@@ -11,7 +11,7 @@
     "schedule": {
         "20:00-21:30": "Workshop"
     },
-    "structure": "structure of the workshop, first this then that, once again <ul><li>element 1</li></ul> html works <br> as well!",
+    "structure": "1. Example Shiny Apps 2. Build Shiny Environment 3. Shiny Theory 4. Build your own Shiny App with our support <ul><li>element 1</li></ul> html works <br> as well!",
     "details": {
         "Venue": "Innsbruck University - SOWI",
         "Language": "English / German",
