@@ -1,5 +1,8 @@
 {
-	"active": ["...",
+	"active": ["..."
+
+    ],
+	"inactive": [
 		"ggplot2_1.json",
 		"ggplot2_2.json",
 		"network.json",
@@ -9,7 +12,5 @@
 		"text_vis.json",
 		"form_R.json"
 
-    ],
-	"inactive": [
 	]
 }
